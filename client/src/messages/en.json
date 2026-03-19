@@ -1,0 +1,36 @@
+{
+    "cart": {
+        "addedToCart": "Added to cart",
+        "title": "Your cart",
+        "description": "Items in your shopping cart",
+        "empty": "Your cart is empty",
+        "total": "Total",
+        "remove": "Remove",
+        "close": "Close",
+        "quantity": "Qty"
+    },
+    "home": {
+        "title": "Home",
+        "description": "Home description"
+    },
+    "productCard": {
+        "addToWishlist": "Add to wishlist",
+        "addToCart": "Add to cart"
+    },
+    "productPage": {
+        "home": "Home",
+        "newIn": "New in",
+        "sizeChart": "Size chart",
+        "color": "Color",
+        "size": "Size",
+        "taxIncluded": "Tax included.",
+        "inStock": "In stock, ready to ship",
+        "addToCart": "ADD TO CART",
+        "addToWishlist": "ADD TO WISHLIST",
+        "description": "Description",
+        "delivery": "Delivery",
+        "assistance": "Assistance",
+        "share": "Share",
+        "pinIt": "Pin it"
+    }
+}

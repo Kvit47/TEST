@@ -1,0 +1,36 @@
+{
+    "cart": {
+        "addedToCart": "Добавлено в корзину",
+        "title": "Ваша корзина",
+        "description": "Товары в корзине",
+        "empty": "Корзина пуста",
+        "total": "Итого",
+        "remove": "Удалить",
+        "close": "Закрыть",
+        "quantity": "Кол-во"
+    },
+    "home": {
+        "title": "Главная",
+        "description": "Главная страница"
+    },
+    "productCard": {
+        "addToWishlist": "Добавить в избранное",
+        "addToCart": "В корзину"
+    },
+    "productPage": {
+        "home": "Главная",
+        "newIn": "Новинки",
+        "sizeChart": "Таблица размеров",
+        "color": "Цвет",
+        "size": "Размер",
+        "taxIncluded": "Налог включён.",
+        "inStock": "В наличии, готов к отправке",
+        "addToCart": "В КОРЗИНУ",
+        "addToWishlist": "В ИЗБРАННОЕ",
+        "description": "Описание",
+        "delivery": "Доставка",
+        "assistance": "Помощь",
+        "share": "Поделиться",
+        "pinIt": "Сохранить"
+    }
+}

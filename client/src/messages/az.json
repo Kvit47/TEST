@@ -1,0 +1,36 @@
+{
+    "cart": {
+        "addedToCart": "Səbətə əlavə edildi",
+        "title": "Səbətiniz",
+        "description": "Səbətinizdəki məhsullar",
+        "empty": "Səbətiniz boşdur",
+        "total": "Cəmi",
+        "remove": "Sil",
+        "close": "Bağla",
+        "quantity": "Say"
+    },
+    "home": {
+        "title": "Ana Səhifə",
+        "description": "Ana səhifə mətni"
+    },
+    "productCard": {
+        "addToWishlist": "İstək siyahısına əlavə et",
+        "addToCart": "Səbətə əlavə et"
+    },
+    "productPage": {
+        "home": "Ana səhifə",
+        "newIn": "Yeniliklər",
+        "sizeChart": "Ölçü cədvəli",
+        "color": "Rəng",
+        "size": "Ölçü",
+        "taxIncluded": "Vergi daxildir.",
+        "inStock": "Stokda, göndərməyə hazırdır",
+        "addToCart": "SƏBƏTƏ ƏLAVƏ ET",
+        "addToWishlist": "İSTƏK SİYAHISINA ƏLAVƏ ET",
+        "description": "Təsvir",
+        "delivery": "Çatdırılma",
+        "assistance": "Kömək",
+        "share": "Paylaş",
+        "pinIt": "Saxla"
+    }
+}
